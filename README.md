@@ -87,9 +87,6 @@
 - [profile-readme-generator](https://www.npmjs.com/package/profile-readme-generator)
   
   More Soon...
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
 
 ### 🎶Spotify List
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
