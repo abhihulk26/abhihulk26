@@ -5,25 +5,26 @@
 </picture>
 
 
+<h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 
 
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Welcome to Abhishek's profile!
+  Hello I'm Abhishek Yadav!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Data Analyst;I+am+a+Bachelor's+In Information+Technology;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Data+Engineer;I+am+a+Software+Engineer+;Data+Analyst;Analysis+FullStack+Developer;abhi+Dev;Crypto+Data+Minning+%3C3"></a>
 </p>
 
 ---
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on : Nothing
+🔭 I’m currently working on : Machine Learning Projects
   
-🌱 I’m currently learning : CV using OpenCV python
+🌱 I’m currently learning : NLP, ML(Machine Learning), CV using OpenCV python
 
   👯 I’m open to collaborate with anyone
 
@@ -32,8 +33,8 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or
-  through website https://codewhiteweb.thedev.id/contact
+  Mail me at "buckuplearning@gmail.com" or
+  through website https://abhi.unstucksmind.com
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
